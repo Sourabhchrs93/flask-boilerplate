@@ -5,7 +5,7 @@ Flas>=0.12.2
 Flask-RESTful==0.3.6
 
 # https://pypi.python.org/pypi/uWSGI
-uWSGI==2.0.15
+uWSGI==2.0.22
 
 flask-restful-swagger==0.19
 
